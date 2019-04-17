@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "../out/production/node/node.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "*",
+    "http": "*",
+    "kotlin": "^1.2.51",
+    "cheerio-httpcli": "*",
+    "url": "*",
+    "request": "*",
+    "path": "*"
+  }
+}
